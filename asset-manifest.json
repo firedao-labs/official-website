@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e6c95d2.css",
-    "main.js": "/static/js/main.e694b4d7.js",
-    "static/js/787.63363aea.chunk.js": "/static/js/787.63363aea.chunk.js",
-    "static/media/banner.png": "/static/media/banner.6cd00f4b68816eb38cc8.png",
-    "static/media/specs.png": "/static/media/specs.d2f940c9abe93e5ff21c.png",
-    "static/media/bathroom.png": "/static/media/bathroom.4a711769d8013c4fbb0f.png",
-    "static/media/wce_d.png": "/static/media/wce_d.633ee87234b4fe5681fc.png",
-    "static/media/wce_c.png": "/static/media/wce_c.ccbf3e199ba942daf460.png",
-    "static/media/bann_c.png": "/static/media/bann_c.a182192b0dd9a89742e9.png",
-    "static/media/wce_b.png": "/static/media/wce_b.537592c2e57faf463c78.png",
-    "static/media/wce_a.png": "/static/media/wce_a.3de1e8e21a54bfa19d57.png",
-    "static/media/bann_a.png": "/static/media/bann_a.9169a244dee55e218910.png",
-    "static/media/bann_b.png": "/static/media/bann_b.f6f5b73a5c054cce6c5d.png",
-    "static/media/bann_d.png": "/static/media/bann_d.056222cf02d8ceaf74d1.png",
-    "static/media/footer_logo.png": "/static/media/footer_logo.9ddbd803ab35e61f7919.png",
-    "static/media/logo.png": "/static/media/logo.b01887e3e88f53b2bd14.png",
+    "main.css": "/static/css/main.fc0706bd.css",
+    "main.js": "/static/js/main.82a91d3a.js",
+    "static/js/563.8c586e7b.chunk.js": "/static/js/563.8c586e7b.chunk.js",
+    "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
+    "static/js/163.fef72df9.chunk.js": "/static/js/163.fef72df9.chunk.js",
+    "static/media/main-background.jpg": "/static/media/main-background.c23c34b36fe1b509d657.jpg",
+    "static/media/3.png": "/static/media/3.1090c8bba7f9c8fe7c12.png",
+    "static/media/dream.png": "/static/media/dream.ee189d18037ae7978695.png",
+    "static/media/1.png": "/static/media/1.fe8c6a88c5666ffbf413.png",
+    "static/media/2.png": "/static/media/2.99e439ced1d753926335.png",
+    "static/media/4.png": "/static/media/4.9f499ad78127223358b4.png",
+    "static/media/fleek.png": "/static/media/fleek.ddcd73d0d6e95929cdf2.png",
+    "static/media/polygon.png": "/static/media/polygon.a2f2419e7c4008232e86.png",
+    "static/media/opensea.png": "/static/media/opensea.6bcaaf8eb364c00f79a6.png",
+    "static/media/openzeppelin.png": "/static/media/openzeppelin.985f38313aace2e903a3.png",
+    "static/media/certik.png": "/static/media/certik.e381df8d26b5bcc6854c.png",
+    "static/media/not-found-background.svg": "/static/media/not-found-background.613751422578dfbe3814cd3583441b6d.svg",
     "index.html": "/index.html",
-    "main.5e6c95d2.css.map": "/static/css/main.5e6c95d2.css.map",
-    "main.e694b4d7.js.map": "/static/js/main.e694b4d7.js.map",
-    "787.63363aea.chunk.js.map": "/static/js/787.63363aea.chunk.js.map"
+    "main.fc0706bd.css.map": "/static/css/main.fc0706bd.css.map",
+    "main.82a91d3a.js.map": "/static/js/main.82a91d3a.js.map",
+    "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map",
+    "163.fef72df9.chunk.js.map": "/static/js/163.fef72df9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e6c95d2.css",
-    "static/js/main.e694b4d7.js"
+    "static/css/main.fc0706bd.css",
+    "static/js/main.82a91d3a.js"
   ]
 }
